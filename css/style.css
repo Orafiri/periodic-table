@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.container {
+    justify-content: center;
+    background-color: black;
+    /* width: 800px; */
+    display: flex;
+    flex-direction: column;
+    flex-flow: row;
+    border: 2px solid black;
+    
+
+}
+.elements {
+    position: relative;
+    box-sizing: border-box;
+    /* height: 80px; */
+    /* width: 80px; */
+    border: 2px solid;
+    background: goldenrod;
+    padding: 30px;
+    margin: 10px;
+    display: flex;
+}
+.elements-first-column{
+    border: solid white 2px; 
+    
+}
+.elements-second-column{
+    border: solid blue 2px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: column;
+}
+.elements-third-column{
+    border: solid purple 2px;
+}
+.elements-fourth-column{
+    border: solid green 2px;
+}
+.elements-fifth-column{
+    border: solid gray 2px;
+}
+.elements-sixth-column{
+    border: solid brown 2px ;
+}
+.elements-seventh-column{
+    border: solid orange 2px;
+}
+.elements-eighth-column{
+    border: solid black 2px;
+}
+.elements-nineth-column{
+    border: solid yellow 2px;
+}
+.elements-tenth-column{
+    border: solid wheat 2px;
+}
+.elements-eleventh-column{
+    border: solid crimson 2px;
+}
+.elements-twelfth-column{
+    border: solid 2px cornflowerblue;
+}
+.elements-thirteenth-column{
+    border: solid olive 2px;
+}
+.elememts-fourteeenth-column{
+    border: solid indigo 2px;
+}
+.elements-fifteenth-column{
+    border: solid lavender 2px;
+}
+.elements-sixteenth-column{
+    border: solid teal 2px;
+}
+.elements-seventeenth-column{
+    border: solid violet 2px;
+}
+.elements-eighteenth-column{
+    border: solid tan 2px;
+}
